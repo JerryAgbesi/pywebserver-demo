@@ -32,5 +32,5 @@ if __name__ == "__main__":
 
     app.listen(8881)
 
-    print("I.m listening on port 8881")
+    print("I.m listening on http://localhost:8881")
     tornado.ioloop.IOLoop.current().start()
